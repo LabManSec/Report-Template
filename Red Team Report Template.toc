@@ -1,0 +1,20 @@
+\contentsline {subsection}{Executive Summary}{2}{section*.2}%
+\contentsline {subsection}{Methodology and Goals}{3}{section*.3}%
+\contentsline {subsection}{Scenario and Scope}{5}{section*.4}%
+\contentsline {subsubsection}{Scenario}{5}{section*.5}%
+\contentsline {subsubsection}{Scope}{6}{section*.6}%
+\contentsline {subsection}{Attack Narrative}{6}{section*.7}%
+\contentsline {subsubsection}{Phase 1: [TITLE]}{6}{section*.8}%
+\contentsline {subsubsection}{Phase 2: [TITLE]}{7}{section*.9}%
+\contentsline {subsubsection}{Phase 3: [TITLE]}{8}{section*.10}%
+\contentsline {subsubsection}{Phase 4: [TITLE]}{9}{section*.11}%
+\contentsline {subsection}{Observations and Mitigation Opportunities}{11}{section*.12}%
+\contentsline {subsubsection}{Observation 1: [TITLE]}{11}{section*.13}%
+\contentsline {subsubsection}{Mitigation Opportunity}{11}{section*.14}%
+\contentsline {subsubsection}{Observation 2: [TITLE]}{11}{section*.15}%
+\contentsline {subsubsection}{Mitigation Opportunity}{11}{section*.16}%
+\contentsline {subsection}{Detection Opportunities and Recommendations}{11}{section*.17}%
+\contentsline {subsubsection}{Detection Opportunity 1: [TITLE]}{12}{section*.18}%
+\contentsline {subsubsection}{Detection Logic}{12}{section*.19}%
+\contentsline {subsection}{Conclusion}{13}{section*.20}%
+\contentsline {subsection}{Appendix A: Scripts and Tools Utilized}{14}{section*.21}%
