@@ -17,8 +17,8 @@ I personally wasn't a fan of how LaTeX formats pictures, so I just added `\emph{
 
 ## Recommended Toolset
 * VSCode  
-* LTeX Extension
-* LaTeX Workshop Extension
+* [LTeX Extension](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)
+* [LaTeX Workshop Extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 
 ## Credit
 Thanks again to redteam.guides for the formatting and content inspiration!
