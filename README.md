@@ -16,7 +16,7 @@ I personally wasn't a fan of how LaTeX formats pictures, so I just added `\emph{
 
 
 ## Recommended Toolset
-VSCode  
+* VSCode  
 * LTeX Extension
 * LaTeX Workshop Extension
 
