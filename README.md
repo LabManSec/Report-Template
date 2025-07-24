@@ -10,13 +10,14 @@ Whether you've worked with LaTeX before or not, the formatting should be relativ
 
 
 ### Inserting images
-Since I initially generated this tempalte using the Pandoc plugin in Obsidian, inserting images won't be the same for you as it was for me.
+Since I initially generated this template using the Pandoc plugin in Obsidian, inserting images won't be the same for you as it was for me.
 I recommend using the first method outlined [here](https://www.overleaf.com/learn/latex/Inserting_Images), which uses the `graphicx` package in LaTeX.
 I personally wasn't a fan of how LaTeX formats pictures, so I just added `\emph{INSERT_CAPTION_HERE}` below each image. 
 
 
 ## Recommended Toolset
-* VSCode  
+* VSCode
+* TeX Live
 * [LTeX Extension](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)
 * [LaTeX Workshop Extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 
